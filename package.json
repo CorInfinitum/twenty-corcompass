@@ -149,7 +149,7 @@
     "jsdom": "~22.1.0",
     "msw": "^2.12.7",
     "msw-storybook-addon": "^2.0.6",
-    "nx": "22.5.4",
+    "nx": "22.7.7",
     "prettier": "^3.1.1",
     "raw-loader": "^4.0.2",
     "rimraf": "^5.0.5",
