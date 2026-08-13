@@ -40,7 +40,7 @@
     "dist"
   ],
   "dependencies": {
-    "@genql/cli": "^3.0.3",
+    "@genql/cli": "^6.3.4",
     "@genql/runtime": "^2.10.0",
     "esbuild": "^0.25.0",
     "graphql": "^16.8.1"
