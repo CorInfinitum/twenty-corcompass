@@ -54,7 +54,7 @@
   "dependencies": {
     "@chakra-ui/react": "^3.33.0",
     "@emotion/react": "^11.14.0",
-    "@genql/cli": "^3.0.3",
+    "@genql/cli": "^6.3.4",
     "@genql/runtime": "^2.10.0",
     "@quilted/threads": "^4.0.1",
     "@remote-dom/core": "^1.10.1",
