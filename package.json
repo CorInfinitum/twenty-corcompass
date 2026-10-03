@@ -46,7 +46,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-responsive": "^9.0.2",
-    "react-router-dom": "^6.30.3",
+    "react-router-dom": "^6.30.6",
     "react-tooltip": "^5.13.1",
     "remark-gfm": "^4.0.1",
     "rxjs": "^7.2.0",
@@ -166,7 +166,7 @@
     "tsx": "^4.17.0",
     "verdaccio": "^6.3.1",
     "vite": "^7.0.0",
-    "vitest": "^4.0.18"
+    "vitest": "^5.0.3"
   },
   "engines": {
     "node": "^24.5.0",
